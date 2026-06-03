@@ -1,0 +1,137 @@
+[
+      {
+            "id": 1,
+            "title": "gambar1",
+            "alt": "gambar bagus",
+            "source": "wpp.png",
+            "author": "febri",
+            "date": "2026-12-04",
+            "aspectRatio": "16/9"
+      },
+      {
+            "id": 2,
+            "title": "gambar2",
+            "alt": "gambar bagus",
+            "source": "anime.webp",
+            "author": "febri",
+            "date": "2026-12-04",
+            "aspectRatio": "1/1"
+      },
+      {
+            "id": 3,
+            "title": "gambar3",
+            "alt": "gambar bagus",
+            "source": "anime1.webp",
+            "author": "febri",
+            "date": "2026-12-04",
+            "aspectRatio": "9/16"
+      },
+      {
+            "id": 4,
+            "title": "gambar4",
+            "alt": "gambar bagus",
+            "source": "anime2.webp",
+            "author": "febri",
+            "date": "2026-12-04",
+            "aspectRatio": "1/1"
+      },
+      {
+            "id": 5,
+            "title": "gambar5",
+            "alt": "gambar bagus",
+            "source": "anime3.webp",
+            "author": "febri",
+            "date": "2026-12-04",
+            "aspectRatio": "16/9"
+      },
+      {
+            "id": 6,
+            "title": "gambar6",
+            "alt": "gambar bagus",
+            "source": "anime4.webp",
+            "author": "febri",
+            "date": "2026-12-04",
+            "aspectRatio": "16/9"
+      },
+      {
+            "id": 7,
+            "title": "gambar 7",
+            "alt": "gambar bagus",
+            "source": "anime5.webp",
+            "author": "febri",
+            "date": "2025-12-02",
+            "aspectRatio": "16/9"
+      },
+      {
+            "id": 8,
+            "title": "gambar 8",
+            "alt": "gambar bagus",
+            "source": "anime6.webp",
+            "author": "febri",
+            "date": "2025-12-02",
+            "aspectRatio": "16/9"
+      },
+      {
+            "id": 9,
+            "title": "gambar 9",
+            "alt": "gambar bagus",
+            "source": "anime7.webp",
+            "author": "febri",
+            "date": "2025-12-02",
+            "aspectRatio": "16/9"
+      },
+      {
+            "id": 10,
+            "title": "gambar 10",
+            "alt": "gambar bagus",
+            "source": "anime8.webp",
+            "author": "febri",
+            "date": "2025-12-02",
+            "aspectRatio": "1/1"
+      },
+      {
+            "id": 11,
+            "title": "gambar 11",
+            "alt": "gambar bagus",
+            "source": "anime9.webp",
+            "author": "febri",
+            "date": "2025-12-02",
+            "aspectRatio": "9/16"
+      },
+      {
+            "id": 12,
+            "title": "gambar 12",
+            "alt": "gambar bagus",
+            "source": "anime10.webp",
+            "author": "febri",
+            "date": "2025-12-02",
+            "aspectRatio": "16/9"
+      },
+      {
+            "id": 13,
+            "title": "gambar 13",
+            "alt": "gambar bagus",
+            "source": "anime11.webp",
+            "author": "febri",
+            "date": "2025-12-02",
+            "aspectRatio": "16/9"
+      },
+      {
+            "id": 14,
+            "title": "gambar 14",
+            "alt": "gambar bagus",
+            "source": "anime12.webp",
+            "author": "febri",
+            "date": "2025-11-01",
+            "aspectRatio": "1/1"
+      },
+      {
+            "id": 15,
+            "title": "gambar 15",
+            "alt": "gambar bagus",
+            "source": "anime13.jpg",
+            "author": "febri",
+            "date": "2024-08-02",
+            "aspectRatio": "16/9"
+      }
+]
