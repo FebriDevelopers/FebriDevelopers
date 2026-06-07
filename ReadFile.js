@@ -1,3 +1,6 @@
+// a simple terminal to read a file
+// there is a simple project for track my progress to learn javascript.
+
 const fs = require("fs");
 const rl = require("readline/promises").createInterface({
       input: process.stdin,
