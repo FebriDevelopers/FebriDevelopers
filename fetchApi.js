@@ -6,17 +6,33 @@ const rl = require("readline/promises").createInterface({
 
 async function Read() {
       try {
-            // masukkan id
-            const id = await rl.question("ID: ");
-            //search id
-            const data = fs.readFileSync("crudData.json", "utf-8");
-            const dataJSON = JSON.parse(data);
-            const user = dataJSON.find((user) => user.id === Number(id));
-            console.log(`nama: ${user.nama}\nClass: ${user.class}`);
+            const files = fs.readdirSync("./");
+            const structureFile =
+                  Math.max(...files.map((file) => file.length)) + 5;
+
+            for (let i = 0; i < files.length; i += 2) {
+                  let col1 = files[i] || "";
+                  let col2 = files[i + 1] || "";
+                  process.stdout.write(
+                        `-${col1.padEnd(structureFile, " ") + col2}\n`,
+                  );
+            }
+
+            const inputFile = await rl.question("\nInput File: ");
+
+            // logic to find the file
+            if (inputFile === "q") {
+                  console.log("Bye!~~");
+                  process.exit();
+            } else if (!files.includes(inputFile)) {
+                  console.log("File not found");
+                  return Read();
+            }
+
+            const data = await fs.readFileSync(inputFile, "utf-8");
+            console.log(`\n${data}\nctrl + c to exit`);
       } catch (error) {
             console.log(error);
-      } finally {
-            rl.close();
       }
 }
 Read();
