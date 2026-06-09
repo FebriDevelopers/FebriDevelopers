@@ -2,41 +2,81 @@
       {
             "id": 1,
             "nama": "Febri",
-            "class": "XI.2"
+            "umur": 16
       },
       {
             "id": 2,
             "nama": "Valen",
-            "class": "XI.2"
+            "umur": 17
       },
       {
             "id": 3,
             "nama": "iwan",
-            "class": "XI.1"
+            "umur": 17
       },
       {
             "id": 4,
             "nama": "asep",
-            "class": "None"
+            "umur": 16
       },
       {
             "id": 5,
             "nama": "agus",
-            "class": "XI.2"
-      },
-      {
-            "id": 6,
-            "nama": "budi",
-            "class": "XI.2"
+            "umur": 18
       },
       {
             "id": 7,
             "nama": "caca",
-            "class": "XI.2"
+            "umur": 15
       },
       {
             "id": 8,
             "nama": "didi",
-            "class": "XI.2"
+            "umur": 17
+      },
+      {
+            "id": 9,
+            "nama": "syafiq",
+            "umur": 18
+      },
+      {
+            "id": 10,
+            "nama": "septiadi",
+            "umur": 15
+      },
+      {
+            "id": 11,
+            "nama": "danish ",
+            "umur": 17
+      },
+      {
+            "id": 12,
+            "nama": "nahda",
+            "umur": 16
+      },
+      {
+            "id": 13,
+            "nama": "adit",
+            "umur": 18
+      },
+      {
+            "id": 16,
+            "nama": "aguss",
+            "umur": 22
+      },
+      {
+            "id": 17,
+            "nama": "master",
+            "umur": 12
+      },
+      {
+            "id": 18,
+            "nama": "aziz",
+            "umur": 19
+      },
+      {
+            "id": 3,
+            "nama": "wawan",
+            "umur": 18
       }
 ]

@@ -25,7 +25,7 @@ async function Read() {
 
             // logic to find the file
             if (inputFile === "q") {
-                  console.log("Bye!~~");
+                  console.log("\x1b[31mTeks Merah\x1b[0m");
                   process.exit();
             } else if (!files.includes(inputFile)) {
                   console.log("File not found");
