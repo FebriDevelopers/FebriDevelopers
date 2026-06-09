@@ -18,5 +18,25 @@
             "id": 4,
             "nama": "asep",
             "class": "None"
+      },
+      {
+            "id": 5,
+            "nama": "agus",
+            "class": "XI.2"
+      },
+      {
+            "id": 6,
+            "nama": "budi",
+            "class": "XI.2"
+      },
+      {
+            "id": 7,
+            "nama": "caca",
+            "class": "XI.2"
+      },
+      {
+            "id": 8,
+            "nama": "didi",
+            "class": "XI.2"
       }
 ]
