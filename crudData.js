@@ -1,3 +1,7 @@
+// a simple terminal to read a file
+// this require a create data , read data , update data and delete data
+// Iam learn this step by step how to create a simple terminal with using chatgpt as my mentor
+
 const fs = require("fs");
 const { json } = require("stream/consumers");
 const rl = require("readline/promises").createInterface({
@@ -15,6 +19,8 @@ function red(text) {
 function blue(text) {
       return `\x1b[34m${text}\x1b[0m`;
 }
+console.clear();
+console.log(blue("============ CRUD DATA ============="));
 async function readData() {
       try {
             const data = fs.readFileSync("./crudData.json", "utf-8");
